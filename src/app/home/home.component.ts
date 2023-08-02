@@ -16,7 +16,7 @@ import { HousingLocationComponent } from "../housing-location/housing-location.c
         <button class="prim ary" type="button">Search</button>
       </form>
     </section>
-    <section>
+    <section class="results">
       <app-housing-location />
     </section>
   `,
